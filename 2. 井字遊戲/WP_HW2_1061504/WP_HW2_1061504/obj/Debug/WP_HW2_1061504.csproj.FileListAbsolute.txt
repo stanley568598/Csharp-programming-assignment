@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\三上課程\視窗程式設計\作業\WP_HW2_1061504\WP_HW2_1061504\bin\Debug\WP_HW2_1061504.exe.config
+C:\Users\USER\Desktop\三上課程\視窗程式設計\作業\WP_HW2_1061504\WP_HW2_1061504\bin\Debug\WP_HW2_1061504.exe
+C:\Users\USER\Desktop\三上課程\視窗程式設計\作業\WP_HW2_1061504\WP_HW2_1061504\bin\Debug\WP_HW2_1061504.pdb
+C:\Users\USER\Desktop\三上課程\視窗程式設計\作業\WP_HW2_1061504\WP_HW2_1061504\obj\Debug\WP_HW2_1061504.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\三上課程\視窗程式設計\作業\WP_HW2_1061504\WP_HW2_1061504\obj\Debug\WP_HW2_1061504.Form1.resources
+C:\Users\USER\Desktop\三上課程\視窗程式設計\作業\WP_HW2_1061504\WP_HW2_1061504\obj\Debug\WP_HW2_1061504.Properties.Resources.resources
+C:\Users\USER\Desktop\三上課程\視窗程式設計\作業\WP_HW2_1061504\WP_HW2_1061504\obj\Debug\WP_HW2_1061504.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\三上課程\視窗程式設計\作業\WP_HW2_1061504\WP_HW2_1061504\obj\Debug\WP_HW2_1061504.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\三上課程\視窗程式設計\作業\WP_HW2_1061504\WP_HW2_1061504\obj\Debug\WP_HW2_1061504.exe
+C:\Users\USER\Desktop\三上課程\視窗程式設計\作業\WP_HW2_1061504\WP_HW2_1061504\obj\Debug\WP_HW2_1061504.pdb
