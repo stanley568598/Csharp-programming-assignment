@@ -377,7 +377,7 @@
         - PSNR：15.45 dB
         - 評語：大量減少檔案大小，但壓縮圖片與原圖存在不小的差異。
     
-        ![Compare File Size-1](./assets/images/2.%20Compare%20File%20Size.JPG)
+        ![Compare File Size-1](./assets/images/2.%20Compare%20File%20Size-1.JPG)
 
 ### 2. 離散餘弦轉換 (DCT)
 
@@ -455,7 +455,7 @@
 
     3. 比較輸出檔案
 
-        ![Compare File Size-2](./assets/images/8.%20Compare%20File%20Size.JPG)
+        ![Compare File Size-2](./assets/images/8.%20Compare%20File%20Size-2.JPG)
 
         | 項目 | 原始圖像 | 壓縮因子=1 | 壓縮因子=2 | 壓縮因子=4 |
         | :---- | :---- | :---- | :---- | :---- |
