@@ -1,0 +1,20 @@
+C:\Users\USER\Desktop\三上課程\視窗程式設計\class 7\WP_7_5\WP_7_5\bin\Debug\WP_7_5.exe.config
+C:\Users\USER\Desktop\三上課程\視窗程式設計\class 7\WP_7_5\WP_7_5\bin\Debug\WP_7_5.exe
+C:\Users\USER\Desktop\三上課程\視窗程式設計\class 7\WP_7_5\WP_7_5\bin\Debug\WP_7_5.pdb
+C:\Users\USER\Desktop\三上課程\視窗程式設計\class 7\WP_7_5\WP_7_5\obj\Debug\WP_7_5.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\三上課程\視窗程式設計\class 7\WP_7_5\WP_7_5\obj\Debug\WP_7_5.Form1.resources
+C:\Users\USER\Desktop\三上課程\視窗程式設計\class 7\WP_7_5\WP_7_5\obj\Debug\WP_7_5.Properties.Resources.resources
+C:\Users\USER\Desktop\三上課程\視窗程式設計\class 7\WP_7_5\WP_7_5\obj\Debug\WP_7_5.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\三上課程\視窗程式設計\class 7\WP_7_5\WP_7_5\obj\Debug\WP_7_5.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\三上課程\視窗程式設計\class 7\WP_7_5\WP_7_5\obj\Debug\WP_7_5.exe
+C:\Users\USER\Desktop\三上課程\視窗程式設計\class 7\WP_7_5\WP_7_5\obj\Debug\WP_7_5.pdb
+E:\備份資料\學校\課程\1081\視窗程式設計 [周至岳]\class 7\WP_7_5\WP_7_5\obj\Debug\WP_7_5.csprojAssemblyReference.cache
+E:\備份資料\學校\課程\1081\視窗程式設計 [周至岳]\class 7\WP_7_5\WP_7_5\obj\Debug\WP_7_5.Form1.resources
+E:\備份資料\學校\課程\1081\視窗程式設計 [周至岳]\class 7\WP_7_5\WP_7_5\obj\Debug\WP_7_5.csproj.GenerateResource.cache
+E:\備份資料\學校\課程\1081\視窗程式設計 [周至岳]\class 7\WP_7_5\WP_7_5\obj\Debug\WP_7_5.exe
+E:\備份資料\學校\課程\1081\視窗程式設計 [周至岳]\class 7\WP_7_5\WP_7_5\obj\Debug\WP_7_5.pdb
+E:\備份資料\學校\課程\1081\視窗程式設計 [周至岳]\class 7\WP_7_5\WP_7_5\bin\Debug\WP_7_5.exe.config
+E:\備份資料\學校\課程\1081\視窗程式設計 [周至岳]\class 7\WP_7_5\WP_7_5\bin\Debug\WP_7_5.exe
+E:\備份資料\學校\課程\1081\視窗程式設計 [周至岳]\class 7\WP_7_5\WP_7_5\bin\Debug\WP_7_5.pdb
+E:\備份資料\學校\課程\1081\視窗程式設計 [周至岳]\class 7\WP_7_5\WP_7_5\obj\Debug\WP_7_5.Properties.Resources.resources
+E:\備份資料\學校\課程\1081\視窗程式設計 [周至岳]\class 7\WP_7_5\WP_7_5\obj\Debug\WP_7_5.csproj.CoreCompileInputs.cache
