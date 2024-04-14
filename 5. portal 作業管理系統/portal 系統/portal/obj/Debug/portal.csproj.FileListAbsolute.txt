@@ -1,0 +1,22 @@
+C:\Users\USER\Desktop\portal\portal\bin\Debug\portal.exe.config
+C:\Users\USER\Desktop\portal\portal\bin\Debug\portal.exe
+C:\Users\USER\Desktop\portal\portal\bin\Debug\portal.pdb
+C:\Users\USER\Desktop\portal\portal\obj\Debug\portal.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\portal\portal\obj\Debug\portal.Form1.resources
+C:\Users\USER\Desktop\portal\portal\obj\Debug\portal.Properties.Resources.resources
+C:\Users\USER\Desktop\portal\portal\obj\Debug\portal.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\portal\portal\obj\Debug\portal.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\portal\portal\obj\Debug\portal.exe
+C:\Users\USER\Desktop\portal\portal\obj\Debug\portal.pdb
+C:\Users\USER\Desktop\portal\portal\obj\Debug\portal.Form2.resources
+E:\備份資料\學校\課程\1082\軟體工程 [金鳳]\作業 (含完整作業的系統程式)\portal 系統\portal\bin\Debug\portal.exe.config
+E:\備份資料\學校\課程\1082\軟體工程 [金鳳]\作業 (含完整作業的系統程式)\portal 系統\portal\bin\Debug\portal.exe
+E:\備份資料\學校\課程\1082\軟體工程 [金鳳]\作業 (含完整作業的系統程式)\portal 系統\portal\bin\Debug\portal.pdb
+E:\備份資料\學校\課程\1082\軟體工程 [金鳳]\作業 (含完整作業的系統程式)\portal 系統\portal\obj\Debug\portal.csprojAssemblyReference.cache
+E:\備份資料\學校\課程\1082\軟體工程 [金鳳]\作業 (含完整作業的系統程式)\portal 系統\portal\obj\Debug\portal.Form1.resources
+E:\備份資料\學校\課程\1082\軟體工程 [金鳳]\作業 (含完整作業的系統程式)\portal 系統\portal\obj\Debug\portal.Form2.resources
+E:\備份資料\學校\課程\1082\軟體工程 [金鳳]\作業 (含完整作業的系統程式)\portal 系統\portal\obj\Debug\portal.Properties.Resources.resources
+E:\備份資料\學校\課程\1082\軟體工程 [金鳳]\作業 (含完整作業的系統程式)\portal 系統\portal\obj\Debug\portal.csproj.GenerateResource.cache
+E:\備份資料\學校\課程\1082\軟體工程 [金鳳]\作業 (含完整作業的系統程式)\portal 系統\portal\obj\Debug\portal.csproj.CoreCompileInputs.cache
+E:\備份資料\學校\課程\1082\軟體工程 [金鳳]\作業 (含完整作業的系統程式)\portal 系統\portal\obj\Debug\portal.exe
+E:\備份資料\學校\課程\1082\軟體工程 [金鳳]\作業 (含完整作業的系統程式)\portal 系統\portal\obj\Debug\portal.pdb
