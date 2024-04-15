@@ -372,7 +372,7 @@
 
     3. Click 左上角功能區【File >> Save】，可以將壓縮圖片存入本機。
     
-    ![256 Color Palette](./assets/images/1.%20256%20Color%20Palette.JPG)
+    ![256 Color Palette](https://github.com/stanley568598/Csharp-programming-assignment/raw/main/3.%20%E5%BD%B1%E5%83%8F%E5%A3%93%E7%B8%AE/assets/images/1.%20256%20Color%20Palette.JPG)
 
 - 踩坑紀錄：
 
@@ -430,7 +430,7 @@
         - PSNR：15.45 dB
         - 評語：大量減少檔案大小，但壓縮圖片與原圖存在不小的差異。
     
-        ![Compare File Size-1](./assets/images/2.%20Compare%20File%20Size-1.JPG)
+        ![Compare File Size-1](https://github.com/stanley568598/Csharp-programming-assignment/raw/main/3.%20%E5%BD%B1%E5%83%8F%E5%A3%93%E7%B8%AE/assets/images/2.%20Compare%20File%20Size-1.JPG)
 
 ### 2. 離散餘弦轉換 (DCT)
 
@@ -455,7 +455,7 @@
 
     4. Click 左上角功能區【File >> Save】，可以將壓縮圖片存入本機。
 
-    ![16x16 DCT](./assets/images/3.%2016x16%20DCT.JPG)
+    ![16x16 DCT](https://github.com/stanley568598/Csharp-programming-assignment/raw/main/3.%20%E5%BD%B1%E5%83%8F%E5%A3%93%E7%B8%AE/assets/images/3.%2016x16%20DCT.JPG)
 
 - 踩坑紀錄：
     
@@ -496,19 +496,19 @@
 
     1. 不同壓縮因子，對壓縮影像的影響：
 
-        ![Compress Factor=1](./assets/images/4.%20Compress%20Factor=1.JPG)
+        ![Compress Factor=1](https://github.com/stanley568598/Csharp-programming-assignment/raw/main/3.%20%E5%BD%B1%E5%83%8F%E5%A3%93%E7%B8%AE/assets/images/4.%20Compress%20Factor=1.JPG)
 
-        ![Compress Factor=2](./assets/images/5.%20Compress%20Factor=2.JPG)
+        ![Compress Factor=2](https://github.com/stanley568598/Csharp-programming-assignment/raw/main/3.%20%E5%BD%B1%E5%83%8F%E5%A3%93%E7%B8%AE/assets/images/5.%20Compress%20Factor=2.JPG)
 
-        ![Compress Factor=4](./assets/images/6.%20Compress%20Factor=4.JPG)
+        ![Compress Factor=4](https://github.com/stanley568598/Csharp-programming-assignment/raw/main/3.%20%E5%BD%B1%E5%83%8F%E5%A3%93%E7%B8%AE/assets/images/6.%20Compress%20Factor=4.JPG)
 
     2. 統計壓縮所省略的資訊量 & 壓縮效果的 PSNR 值
 
-        ![Compare with Compress Factors](./assets/images/7.%20Compare%20with%20Compress%20Factors.JPG)
+        ![Compare with Compress Factors](https://github.com/stanley568598/Csharp-programming-assignment/raw/main/3.%20%E5%BD%B1%E5%83%8F%E5%A3%93%E7%B8%AE/assets/images/7.%20Compare%20with%20Compress%20Factors.JPG)
 
     3. 比較輸出檔案
 
-        ![Compare File Size-2](./assets/images/8.%20Compare%20File%20Size-2.JPG)
+        ![Compare File Size-2](https://github.com/stanley568598/Csharp-programming-assignment/raw/main/3.%20%E5%BD%B1%E5%83%8F%E5%A3%93%E7%B8%AE/assets/images/8.%20Compare%20File%20Size-2.JPG)
 
         | 項目 | 原始圖像 | 壓縮因子=1 | 壓縮因子=2 | 壓縮因子=4 |
         | :---- | :---- | :---- | :---- | :---- |
