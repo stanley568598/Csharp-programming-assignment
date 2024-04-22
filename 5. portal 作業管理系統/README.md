@@ -71,8 +71,6 @@
 > 
 > <summary>更多軟體工程技術說明</summary>
 > 
-> <br>
-> 
 > >  ## 軟體工程
 > > 
 > > 軟體工程 ( software engineering )，顧名思義就是「製作軟體的工程方法 ( engineering methodologies )」，用以確保高品質的軟體產品能夠在有限的資源、預算與時間內開發完成。
